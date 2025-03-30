@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'Nimbus Sans';
+  src: url('https://aether-fonts.pages.dev/fonts/NimbusSanL-Bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Nimbus Sans', sans-serif;
+  background-color: #f8f8f8;
+  color: #333;
+  text-align: center;
+  padding-top: 50px;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+p {
+  font-size: 1.5em;
+}
